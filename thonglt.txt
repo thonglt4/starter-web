@@ -1,0 +1,4 @@
+lam trung thong 
+hello world
+#git project
+##how to work
