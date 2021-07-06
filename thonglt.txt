@@ -7,6 +7,7 @@ this is git project
 this is deployment
 ##how to work
 this is how to work
+please fork this reponsitory
 ###Copy right
 2020 copyright
 something
