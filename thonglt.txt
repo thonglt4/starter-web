@@ -4,4 +4,6 @@ hello world
 #git project
 this is git project
 ## deployment
+this is deployment
 ##how to work
+this is how to work
