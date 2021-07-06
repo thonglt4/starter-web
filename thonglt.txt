@@ -1,4 +1,6 @@
 lam trung thong 
 hello world
+
 #git project
+## deployment
 ##how to work
