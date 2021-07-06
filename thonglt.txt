@@ -2,5 +2,6 @@ lam trung thong
 hello world
  this is something
 #git project
+this is git project
 ## deployment
 ##how to work
