@@ -7,3 +7,5 @@ this is git project
 this is deployment
 ##how to work
 this is how to work
+###Copy right
+2020 copyright
