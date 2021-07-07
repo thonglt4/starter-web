@@ -7,7 +7,7 @@
 
 # THANKS
 
-    <name>
+    thonglt
 
 # TECHNOLOGY COLOPHON
 
